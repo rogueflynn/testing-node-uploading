@@ -1,0 +1,15 @@
+SCP
+    real    3m4.635s
+orka
+    real    3m54.406s
+rsync (stream/polling)
+    real    3m38.406s
+rsync (not stream/polling)
+    real    3m20.406s
+multer    
+    real    3m1.471s
+    real    3m2.505s
+busboy
+    real    2m56.891s
+    real    2m56.712s 
+multiparty recommends using busboy.

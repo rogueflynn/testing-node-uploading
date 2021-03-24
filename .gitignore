@@ -1,0 +1,4 @@
+dummyisos
+*.iso
+*.JPG
+node_modules
